@@ -1,5 +1,5 @@
 ##########################################################################
-# File Name: 01.fastq_to_couunt.sh
+# File Name: 01.fastq_to_count.sh
 # Author: Instant-Eternity
 # mail: hunterfirstone@i.smu.edu.cn
 # Created Time: Thu 03 Jun 2021 11:34:14 AM CST
