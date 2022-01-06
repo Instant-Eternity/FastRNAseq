@@ -3,6 +3,7 @@
 > 01.fastq_to_count.sh
 
 	This script is a shell script. 
+
 	| Software | Version |
 	| ------------- | ------------- |
 	| FastQC | v0.11.9 |
