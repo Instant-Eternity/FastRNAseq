@@ -12,4 +12,8 @@ This script is a shell script.
 | samtools | | v1.9 |
 | RSeQC | bam_stat.py | v4.0.0 |
 |  | read_distribution.py | v4.0.0 |
+| stringtie | | v2.1.5 |
+| htseq-count |  | v0.13.5 |
+| gffcompare |  | v0.12.2 |
+
 > 02.count.R
