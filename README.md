@@ -16,4 +16,7 @@ This script is a shell script.
 | htseq-count |  | v0.13.5 |
 | gffcompare |  | v0.12.2 |
 
+| R || v4.0.3 |
+| SoupX || v1.5.2 |
+| DoubletFinder || v2.0.3 |
 > 02.count.R
